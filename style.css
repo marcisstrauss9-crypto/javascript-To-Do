@@ -1,0 +1,9 @@
+body {
+  background: linear-gradient(90deg, rgb(189, 4, 4), rgb(106, 1, 138));
+  text-align: center;
+}
+#cadr{
+    border: solid black 1px;
+    border-radius: 20px;
+    background-color: rgb(226, 58, 58);
+}
