@@ -1,2 +1,2 @@
 # javascript-To-Do
-trenejos js + DOM
+Trenējos js un DOM saprast funkcijas un tajās izveidotie elementi 
